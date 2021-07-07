@@ -1,0 +1,1 @@
+In acest prim proiect doresc sa reproduc pagina principala a siteului Google.com, cu ajutorul cunostintelor acumulate din cursurile "freecodecamp responsive web design" si "The Odin Project". Acest proiect va recapitula notiuni de baza HTML5, CSS, Git si GitHub. 
